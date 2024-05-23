@@ -108,7 +108,7 @@ GEM
     zeitwerk (2.6.12)
 
 PLATFORMS
-  x86_64-linux
+  x86_64-linux-gnu
 
 DEPENDENCIES
   addressable
@@ -129,4 +129,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.4.20
+   2.5.9
